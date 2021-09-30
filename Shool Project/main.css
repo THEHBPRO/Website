@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@200&display=swap');
+.navbar {
+    display: flex;
+    background-color: grey;
+}
+
+.navbar a {
+    font-family: "Teko";
+    color: crimson;
+    padding: 100px;
+}
+
+.navbar a:hover {
+    font-family: "Teko";
+    color: orange;
+}
+
+.navbar .text .contact {
+    font-family: "Teko";
+    padding: 0px;
+}
+
+.navbar .about .left .main-img {
+    padding: 100px;
+}
+
+body {
+    background: darkgrey;
+}
+
+span {
+    color: crimson;
+}
+
+p {
+    text-align: right;
+    position: relative;
+}
